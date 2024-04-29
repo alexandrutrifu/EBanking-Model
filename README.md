@@ -1,5 +1,4 @@
 # Proiect POO 2024
-MEDITEAZA LA FACADE PENTRU COMMANDPARSER SI APPMANAGER
 ## Structură
 
 Aplicația a fost modularizată cu ajutorul următoarelor pachete:
