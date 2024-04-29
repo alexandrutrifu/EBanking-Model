@@ -1,0 +1,3 @@
+User with email: john.doe@email.com has executed: CREATE USER
+User with email: marry.ville@email.com has executed: CREATE USER
+User with email: john.doe@email.com has executed: ADD FRIEND marry.ville@email.com
